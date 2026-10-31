@@ -1,0 +1,10 @@
+{
+  "name": "Healthcare Intelligence – Nearby Hospital Discovery",
+  "description": "Discover and verify nearby Government and Private hospitals with interactive mapping, facility verification status, emergency service details, and Google Maps directions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
